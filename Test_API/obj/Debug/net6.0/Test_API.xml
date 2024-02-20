@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Test_API</name>
+    </assembly>
+    <members>
+        <member name="P:Servicio_Out.respuesta_tipo">
+            <summary>
+            TIPO DE RESPUESTA (SUCCESS, WARNGING, ERRRO)
+            </summary>
+        </member>
+        <member name="P:Servicio_Out.respuesta_detalle">
+            <summary>
+            MENSAJE DE LA RESPUESTA
+            </summary>
+        </member>
+        <member name="P:Servicio_Out.token">
+            <summary>
+            TOKEN REFRESCADO
+            </summary>
+        </member>
+        <member name="P:Servicio_Out.Data">
+            <summary>
+            DATOS RETORNADOR DE LA EJECUCION.
+            </summary>
+        </member>
+    </members>
+</doc>
